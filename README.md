@@ -9,4 +9,4 @@ Some skills VFX made with ShaderGraph and VFXGraph.
 ## Requirements
 * Unity 2022.3.0f5 or later
 * Universal RP 14.0.0 or later
-* VFX Graph
+* VFX Graph 14.0.0 or later
